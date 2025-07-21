@@ -168,3 +168,11 @@ C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceP
 C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.pdb
 C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.genruntimeconfig.cache
 C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\ref\APIEcommerceProject.dll
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\bin\Debug\net8.0\ar\APIEcommerceProject.resources.dll
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.Resources.SharedResource.resources
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.Resources.SharedResource.ar.resources
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.csproj.GenerateResource.cache
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\APIEcommerceProject.sourcelink.json
+C:\Users\user\Documents\Full Stack\BackEnd\API\APIEcommerceProject\APIEcommerceProject\obj\Debug\net8.0\ar\APIEcommerceProject.resources.dll

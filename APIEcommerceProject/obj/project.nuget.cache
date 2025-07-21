@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Pvh66OZPB9b6KBAjr6uTicEgwEvOF8BEBfIggKL8WdmCGoUtFmsxQpXRJpkRGDMuhTTi+Zbv5OdeJM4DPLMjtA==",
+  "dgSpecHash": "sRkkVR3EJ468kXx3ZkI7FLilN1Vb1ksZ+GlZ5h/s/KgB8ICTh0HbzsbFaUwGI4h0ANOLZ44Mb2MwHPmWIC4Fpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\APIEcommerceProject.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,8 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.7\\microsoft.extensions.dependencymodel.9.0.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization\\9.0.7\\microsoft.extensions.localization.9.0.7.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\9.0.7\\microsoft.extensions.localization.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging\\9.0.7\\microsoft.extensions.logging.9.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.7\\microsoft.extensions.logging.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\9.0.7\\microsoft.extensions.options.9.0.7.nupkg.sha512",

@@ -3,32 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\dto\\responses\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\dto\\responses\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\apiecommerceproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\dto\\responses\\categorytransltionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\dto\\responses\\categorytransltionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\dto\\responses\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\dto\\responses\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\dto\\requests\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\apiecommerceproject\\dto\\requests\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\dto\\requests\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\migrations\\20250709185225_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\migrations\\20250709185225_inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\dto\\requests\\categorytranslationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\dto\\requests\\categorytranslationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\models\\category\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\models\\category\\categorytranslation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\migrations\\20250717170034_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\migrations\\20250717170034_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\resources\\sharedresource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\resources\\sharedresource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\resources\\sharedresource.ar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\resources\\sharedresource.ar.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|c:\\users\\user\\documents\\full stack\\backend\\api\\apiecommerceproject\\apiecommerceproject\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F122360-9F13-4BCE-9C9F-5FD639C4B64B}|APIEcommerceProject\\APIEcommerceProject.csproj|solutionrelative:apiecommerceproject\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,99 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\appsettings.json",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\appsettings.json",
+              "RelativeToolTip": "APIEcommerceProject\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T21:45:34.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
+              "RelativeToolTip": "APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:42:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryTransltionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryTransltionResponseDTO.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\DTO\\Responses\\CategoryTransltionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryTransltionResponseDTO.cs",
+              "RelativeToolTip": "APIEcommerceProject\\DTO\\Responses\\CategoryTransltionResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:41:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryTranslationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Requests\\CategoryTranslationRequestDTO.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\DTO\\Requests\\CategoryTranslationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Requests\\CategoryTranslationRequestDTO.cs",
+              "RelativeToolTip": "APIEcommerceProject\\DTO\\Requests\\CategoryTranslationRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:38:57.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250717170034_intial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Migrations\\20250717170034_intial.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Migrations\\20250717170034_intial.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Migrations\\20250717170034_intial.cs",
+              "RelativeToolTip": "APIEcommerceProject\\Migrations\\20250717170034_intial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:00:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryTranslation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category\\CategoryTranslation.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Models\\Category\\CategoryTranslation.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category\\CategoryTranslation.cs",
+              "RelativeToolTip": "APIEcommerceProject\\Models\\Category\\CategoryTranslation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:45:59.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\SharedResource.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\SharedResource.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\SharedResource.cs",
+              "RelativeToolTip": "APIEcommerceProject\\SharedResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:44:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "APIEcommerceProject\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAIkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:16:53.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category\\Category.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Models\\Category\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category\\Category.cs",
+              "RelativeToolTip": "APIEcommerceProject\\Models\\Category\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:35:24.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Program.cs",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Program.cs",
+              "RelativeToolTip": "APIEcommerceProject\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:46:38.747Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
-              "RelativeDocumentMoniker": "APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
-              "RelativeToolTip": "APIEcommerceProject\\DTO\\Responses\\CategoryResponseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T20:00:20.998Z",
+              "DocumentIndex": 12,
+              "Title": "SharedResource.ar.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Resources\\SharedResource.ar.resx",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Resources\\SharedResource.ar.resx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Resources\\SharedResource.ar.resx",
+              "RelativeToolTip": "APIEcommerceProject\\Resources\\SharedResource.ar.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-16T20:15:35.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "SharedResource.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Resources\\SharedResource.resx",
+              "RelativeDocumentMoniker": "APIEcommerceProject\\Resources\\SharedResource.resx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Resources\\SharedResource.resx",
+              "RelativeToolTip": "APIEcommerceProject\\Resources\\SharedResource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-16T20:04:10.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CategoryRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Requests\\CategoryRequestDTO.cs",
               "RelativeDocumentMoniker": "APIEcommerceProject\\DTO\\Requests\\CategoryRequestDTO.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\DTO\\Requests\\CategoryRequestDTO.cs",
               "RelativeToolTip": "APIEcommerceProject\\DTO\\Requests\\CategoryRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T19:34:33.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "APIEcommerceProject\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "APIEcommerceProject\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAowGIAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:55:44.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250709185225_inital.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Migrations\\20250709185225_inital.cs",
-              "RelativeDocumentMoniker": "APIEcommerceProject\\Migrations\\20250709185225_inital.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Migrations\\20250709185225_inital.cs",
-              "RelativeToolTip": "APIEcommerceProject\\Migrations\\20250709185225_inital.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:52:26.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\BaseModel.cs",
-              "RelativeDocumentMoniker": "APIEcommerceProject\\Models\\BaseModel.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\BaseModel.cs",
-              "RelativeToolTip": "APIEcommerceProject\\Models\\BaseModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:04:16.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "APIEcommerceProject\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Models\\Category.cs",
-              "RelativeToolTip": "APIEcommerceProject\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T18:02:44.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "APIEcommerceProject\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\Full Stack\\BackEnd\\API\\APIEcommerceProject\\APIEcommerceProject\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "APIEcommerceProject\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T17:58:08.082Z",
               "EditorCaption": ""

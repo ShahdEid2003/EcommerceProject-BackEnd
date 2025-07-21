@@ -1,7 +1,10 @@
-﻿namespace APIEcommerceProject.DTO.Requests
+﻿using APIEcommerceProject.Models;
+
+namespace APIEcommerceProject.DTO.Requests
 {
     public class CategoryRequestDTO
     {
-        public string Name { get; set; }
+        public Status Status { get; set; } = Status.Active;
+    public List<CategoryTranslationRequestDTO> CategoryTranslations { get; set; }
     }
 }
